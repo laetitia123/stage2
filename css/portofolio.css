@@ -1,0 +1,220 @@
+.wrap{
+   width:920px;
+    height:900px;
+    margin-left:0px;
+position: relative;
+background-color: rgb(224, 216, 216);
+}
+nav li{
+    display:inline;
+    margin-left:0px;
+    margin-right:20px;
+}
+header{
+    background-color:#38475c;
+}
+.main{
+    margin-top: 0px;
+height: 600px;
+margin-left: 0px;
+background-color:rgb(212, 208, 208);
+}
+nav{
+    background-color: #38475c;
+
+}
+blockquote{
+    font-family:sans-serif;
+    font-style:italic;
+    font-size: 25px;
+}
+img{
+    height:250px;
+    width:250px;
+    float:left;
+    margin-left:320px;
+    border-radius:50%;
+}
+
+
+a{
+    text-decoration: none;
+    color:whitesmoke;
+}
+a:hover{
+    background-color: #517aa8;
+    color:black;
+}
+h2{
+    margin-left: 370px;
+}
+p{
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 23px;
+    margin-left: 80px;
+    
+}
+h3{
+    margin-left:320px;
+    margin-top:50px;
+    width: 100px;
+    display:block;
+    padding-bottom:30px;
+    border-bottom:1px double #517aa8;
+}
+.now{
+   
+    height:650px;
+    background-color:whitesmoke;
+    color:black;
+}
+
+
+.first,.last,.no{
+    
+    background-color:rgb(245, 240, 240);
+    height:280px;
+    margin-top:30px;
+    
+}
+.wow{
+    height:600px;
+    background-color: rgb(224, 216, 216);
+   
+  
+}
+.ke,.ko{
+    
+    height: 400px;
+}
+.ke p{
+    line-height: 20px;
+}
+.best{
+    
+    max-height: 500px;
+    margin-top:10px;
+    
+    background-color:whitesmoke;
+}
+.best h4{
+    margin-left:320px;
+}
+.best p{
+    margin-left:200px;
+}
+h3,h2{
+    color: #517aa8;
+}
+h1{
+    color:whitesmoke;
+}
+.ki{
+    padding-left:150px;
+    background-color: rgb(212, 208, 208);
+    
+    padding-top:50px;
+}
+nav li img{
+    width: 30px;
+    height: 23px;
+    margin-left:50px;
+    color: blue;
+}  
+.first{
+    background:url( ../images/computer.jpg) no-repeat;
+}
+.no{
+    background:url( ../images/computer2.jpg) no-repeat;
+}
+.last{
+    background:url( ../images/leardership.jpg) no-repeat;
+}
+.no h4{
+margin-top:200px;
+margin-left:40px;
+}
+.first h4{
+    margin-top:200px;
+    margin-left:40px;
+    }
+    .last h4{
+        margin-top:200px;
+        margin-left:40px;
+        }
+        .now h4{
+            
+            text-align :center;
+            font-size:15px;
+            text-transform: uppercase;
+            
+        }
+        .first p{
+            margin-left:10px;
+        }
+.wow p {
+color:black;
+}
+.wow h4{
+    color:black;
+}
+.best p{
+    color:black;
+
+}
+.best h4{
+    color:black;
+}
+button{
+    background-color:#c2dfdd;
+    height: 50px;
+    width: 120px;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+
+p{
+    color:black;
+    line-height: 23px;
+}
+.no h4{
+    color: black;
+}
+.first h4{
+    color:black;
+}
+ul li{
+    display:inline;
+}
+footer{
+ background-color: #38475c;
+ height: 70px;
+ padding-bottom:0px;
+ border-right: 1px solide black;
+}
+
+ul li img{
+    display :inline;
+    width:30px;
+    height: 23px;
+    margin-left:30px;
+   
+}
+.wow{
+    margin-bottom: 0px;
+
+}
+.go{
+    padding-top: 12px;
+}
+.go li  p{
+    
+    margin-left:500px;
+
+  
+}
+.ke button{
+    background-color:aqua;
+    margin-left:320px;
+}
